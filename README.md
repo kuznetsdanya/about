@@ -2,7 +2,6 @@
 
 ## Senior Java Developer \| 8+ years of experience
 
-**Phone:**\
 **Email:** kuznetsdanya@gmail.com\
 **Time zone:** GMT +1\
 **GitHub:** [github.com/kuznetsdanya](https://github.com/kuznetsdanya)
